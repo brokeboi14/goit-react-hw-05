@@ -1,12 +1,12 @@
 
 :root {
-  background-color: #222629;
+  background-color: #153b58;
   --default-text-color: #fafafa;
   --text-color2: #9b9fa1;
-  --default-accent-color: rgba(182, 50, 194, 0.502);
-  --default-accent-hover-color: rgb(89, 47, 137);
-  max-width: 1440px;
-  padding: 60px 16px 16px;
+  --default-accent-color: rgb(102, 203, 216);
+  --default-accent-hover-color: rgb(39, 84, 134);
+  max-width: 1144px;
+  padding: 70px 16px 16px;
   margin: 0 auto;
 }
 
@@ -15,12 +15,12 @@
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #515457;
+  background-color: #1b4774;
 }
 
 ::-webkit-scrollbar-thumb {
   background-color: var(--default-accent-hover-color);
-  border: 1px solid #517524;
+  border: 1px solid #246575;
   border-radius: 4px;
 }
 
